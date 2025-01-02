@@ -11,14 +11,6 @@ Currently, the following games are supported:
 * Subnautica
 * Slay the Spire
 * Risk of Rain 2
-* The Legend of Zelda: Ocarina of Time
-* Timespinner
-* Super Metroid
-* Secret of Evermore
-* Final Fantasy
-* Rogue Legacy
-* VVVVVV
-* Raft
 * Super Mario 64
 * Meritous
 * Super Metroid/Link to the Past combo randomizer (SMZ3)
